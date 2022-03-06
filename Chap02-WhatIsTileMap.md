@@ -12,6 +12,8 @@ You will need to download the 2D TileMap Editor via the [Package Manager](https:
 
 When you create a Tilemap, the Grid component is automatically parented to the Tilemap and acts as a guide when you lay out Tiles onto the Tilemap.
 
+![TileMap](https://user-images.githubusercontent.com/44625252/156931476-7bc9340f-e569-4521-ae1b-975ce3301ee8.png)
+
 To create, modify, and pick the Tiles for painting onto a Tilemap, use the Tile Palette (menu: Window > 2D > Tile Palette) and its tools.
 
 ![TilePallette](https://user-images.githubusercontent.com/44625252/156931426-6b6996df-b1ae-46b3-bab8-ac3f7ce5939a.png)
