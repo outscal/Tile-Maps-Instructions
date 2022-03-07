@@ -1,6 +1,6 @@
 # Tile Map Workflow
 
-Now that you are aware about the components, Can you take a guess on hte steps on how to add tilemaps to your game?
+Now that you are aware about the components, Can you take a guess on the steps on how to add tilemaps to your game?
 
 ![](https://media.giphy.com/media/BpadRS0HKJ7Irh150L/giphy.gif)
 
