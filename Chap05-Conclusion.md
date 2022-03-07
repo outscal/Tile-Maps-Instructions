@@ -8,6 +8,18 @@ Next, you can also go through the other advanced topics regarding this feature i
 
 [Unity Docs Tilemap](https://docs.unity3d.com/Manual/class-Tilemap.html)
 
+# Solution
+
+In case you want to look at the solution for this course, you can check the Solution Statement branch of this repository:
+
+[Solution Statement](https://github.com/outscal/Tile-Maps/tree/Solution-Statement)
+
+I would highly recommend you to practice this first and try making some levels yourself before looking into the solution.
+
+Practice makes perfect, you know!!!
+
+![](https://media.giphy.com/media/E8FuDlOVGNyUiqV6ip/giphy.gif)
+
 # Showcase to the world
 
 Now, go ahead, show this to the world, share it with your clanmates and friends on LinkedIn, Instagram and other social meadia handles.
