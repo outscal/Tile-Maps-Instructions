@@ -32,7 +32,9 @@ Once you have the tile assets ready, you can drag and drop:
 
 Some common tools are Select tool, Brush tool, Erase tool etc..., you can hover your mouse pointer over each to see what each does.
 
-![](https://user-images.githubusercontent.com/44625252/156932673-7a592c88-074c-4095-8681-8bcde9e80e49.png)
+The below snippet shows a basic usage of brush and erase tool to add tiles to the grid and also remove if required.
+
+![](https://user-images.githubusercontent.com/44625252/157039209-92f7cbb4-bb96-445c-ab5e-39bfa436b15e.gif)
 
 Have you designed your level yet? With the above knowledge, go ahead and design your first level for any 2D platformer.
 
