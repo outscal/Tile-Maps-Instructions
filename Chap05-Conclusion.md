@@ -1,13 +1,3 @@
-# What's next
-
-So, till now, you have learned a lot about Tile Maps. Have you designed any level yet? Switch your creative mode on and try designing at least 3 unique levels for your 2D platformer game using Tile Maps.
-
-![](https://user-images.githubusercontent.com/44625252/156933532-79eb0adc-6870-4c92-b93b-a43560e04cda.png)
-
-Next, you can also go through the other advanced topics regarding this feature in Unity. A detailed documentation can be found here in the official unity docs:
-
-[Unity Docs Tilemap](https://docs.unity3d.com/Manual/class-Tilemap.html)
-
 # Solution
 
 In case you want to look at the solution for this course, you can check the Solution Statement branch of this repository:
@@ -20,11 +10,17 @@ Practice makes perfect, you know!!!
 
 ![](https://media.giphy.com/media/E8FuDlOVGNyUiqV6ip/giphy.gif)
 
-# Showcase to the world
+# What's next
 
-Now, go ahead, show this to the world, share it with your clanmates and friends on LinkedIn, Instagram and other social meadia handles.
+So, till now, you have learned a lot about Tile Maps. Have you designed any level yet? Switch your creative mode on and try designing at least 3 unique levels for your 2D platformer game using Tile Maps.
 
-You can also go through our other courses here - [Courses](https://academy.outscal.com/welcome)
+![](https://user-images.githubusercontent.com/44625252/156933532-79eb0adc-6870-4c92-b93b-a43560e04cda.png)
+
+Next, you can also go through the other advanced topics regarding this feature in Unity. A detailed documentation can be found here in the official unity docs:
+
+[Unity Docs Tilemap](https://docs.unity3d.com/Manual/class-Tilemap.html)
+
+Onto the next one, learn how to add buttons and text using Unity UI - [Unity UI](https://academy.outscal.com/unity-ui-making-a-screen/)
 
 We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)
 
